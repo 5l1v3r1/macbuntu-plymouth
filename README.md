@@ -5,7 +5,8 @@
 <br>git clone https://github.com/kennedy69/macbuntu-plymouth.git
 <br>cd macbuntu-plymouth
 <br>./install.sh
-<br>Fisnish!
+<br>And click ALT+F2 then write "r"
+<br>Finish!
 
 # Any question? Just contact me!.
 <br>Instagram : https://instagram.com/frdy_an
